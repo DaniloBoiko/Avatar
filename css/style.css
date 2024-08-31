@@ -1,0 +1,13 @@
+:root{
+    --font-family: "Inter", sans-serif ;
+    --second-family:"HeadlandOne", sans-serif;
+    --third-family:"Hammersmith One", sans-serif;
+    
+    --main-color: #FFFFFF;
+    --text-dark-color: #000000;
+    --text-hover-color: #94CFFF;
+    --button-color: #26C6EA;
+    --secondary-title-color: #0A3853;
+    --primary-title-color: #141414;
+    --button-color: #0B0E66;
+}
